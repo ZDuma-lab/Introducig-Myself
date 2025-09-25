@@ -1,5 +1,5 @@
 # Introducing-Myself
-# 👋 Hi, I'm ZDuma-lab!
+# 👋 Hi, I'm Zenzo Duma!
 
 🌟 **Tableau Developer | Data Analyst | Business Intelligence Professional**
 
